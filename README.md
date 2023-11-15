@@ -7,4 +7,4 @@
 更新时直接将exe文件拖入文件夹，删除旧文件即可
 
 由于是易语言编写，使用时最好将软件加至杀毒白名单
-[gitee]（https://gitee.com/HG-dev17/e-exe）
+[gitee HGTOOL仓库](https://gitee.com/HG-dev17/e-exe)
